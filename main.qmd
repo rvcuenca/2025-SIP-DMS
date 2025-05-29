@@ -1,0 +1,69 @@
+---
+title: "Department of Mathematics and Statistics Internship Schedule for PSHS Grade 11 Students"
+format:
+  html:
+    toc: false
+---
+
++-------------+--------------------------+----------------------------------------------------+------------------------------------------------------+
+| Date        | Day                      | 08:00 AM – 12:00 NN                                | 01:00 PM – 05:00 PM                                  |
++:============+:=========================+:===================================================+:=====================================================+
+| Jun 16, Mon | Orientation & Dept Tour  | Dept. of Math & Stat Org Structure:                | -   Quick Tour of PRISM Math/Stat Research Arms      |
+|             |                          |                                                    |                                                      |
+|             |                          | -   Head, faculty & staff roles                    |                                                      |
+|             |                          | -   Vision & Mission statements                    |                                                      |
++-------------+--------------------------+----------------------------------------------------+------------------------------------------------------+
+| Jun 17, Tue | Research Tour            | Overview of Research Disciplines:                  | -   Quick Tour of Current Research Directions        |
+|             |                          |                                                    |                                                      |
+|             |                          | -   Areas of focus (analytics, modeling, etc.)     |                                                      |
+|             |                          | -   Ongoing projects                               |                                                      |
++-------------+--------------------------+----------------------------------------------------+------------------------------------------------------+
+| Jun 18, Wed | LaTeX Training I         | LaTeX Basics:                                      | -   Hands-on: Writing simple reports in LaTeX        |
+|             |                          |                                                    |                                                      |
+|             |                          | -   Document classes & structure                   |                                                      |
+|             |                          | -   Text formatting (sections, emphases)           |                                                      |
++-------------+--------------------------+----------------------------------------------------+------------------------------------------------------+
+| Jun 19, Thu | LaTeX Training II        | Advanced LaTeX:                                    | -   Exercise: Typeset a brief mini‐article           |
+|             |                          |                                                    |                                                      |
+|             |                          | -   Math mode (equations, theorems)                |                                                      |
+|             |                          | -   Figures & tables                               |                                                      |
++-------------+--------------------------+----------------------------------------------------+------------------------------------------------------+
+| Jun 20, Fri | LaTeX Wrap-Up & Q&A      | Review of LaTeX challenges                         | -   LaTeX assignment review & feedback               |
+|             |                          |                                                    |                                                      |
+|             |                          | -   Troubleshooting common errors                  |                                                      |
++-------------+--------------------------+----------------------------------------------------+------------------------------------------------------+
+| Jun 23, Mon | R Training I             | Introduction to R:                                 | -   Data import & cleaning (data.frames, tibbles)    |
+|             |                          |                                                    |                                                      |
+|             |                          | -   RStudio environment                            |                                                      |
+|             |                          | -   Basic syntax & objects                         |                                                      |
++-------------+--------------------------+----------------------------------------------------+------------------------------------------------------+
+| Jun 24, Tue | R Training II            | Data manipulation with `dplyr`:                    | -   Practice exercises on real datasets              |
+|             |                          |                                                    |                                                      |
+|             |                          | -   `filter()`, `select()`, `mutate()`             |                                                      |
++-------------+--------------------------+----------------------------------------------------+------------------------------------------------------+
+| Jun 25, Wed | R Training III           | Data visualization with `ggplot2`:                 | -   Build and customize plots                        |
+|             |                          |                                                    |                                                      |
+|             |                          | -   Grammar of graphics                            |                                                      |
+|             |                          | -   Common geoms                                   |                                                      |
++-------------+--------------------------+----------------------------------------------------+------------------------------------------------------+
+| Jun 26, Thu | R Training IV            | Basic statistical analysis in R:                   | -   Hands-on: Perform and interpret simple tests     |
+|             |                          |                                                    |                                                      |
+|             |                          | -   Summaries, t-tests, correlations               |                                                      |
++-------------+--------------------------+----------------------------------------------------+------------------------------------------------------+
+| Jun 27, Fri | R Wrap-Up & Mini-Project | Consolidated R workflow:                           | -   Mini‐project: Complete a short analysis & report |
+|             |                          |                                                    |                                                      |
+|             |                          | -   Import → Tidy → Analyze → Visualize            |                                                      |
++-------------+--------------------------+----------------------------------------------------+------------------------------------------------------+
+| Jun 30, Mon | Initial Presents         | Interns present Research Interests & Directions    | -   Group feedback & discussion                      |
+|             |                          |                                                    |                                                      |
+|             |                          | -   (5–10 min each)                                |                                                      |
++-------------+--------------------------+----------------------------------------------------+------------------------------------------------------+
+| Jul 01, Tue | Mentorship & Prep        | One-on-one mentoring:                              | -   Final presentation preparation                   |
+|             |                          |                                                    |                                                      |
+|             |                          | -   Refine research plan                           |                                                      |
+|             |                          | -   Presentation coaching                          |                                                      |
++-------------+--------------------------+----------------------------------------------------+------------------------------------------------------+
+| Jul 02, Wed | Final Presentations      | Interns present Revised & Finalized Research Plans | -   Closing remarks, certificates, & next-steps      |
++-------------+--------------------------+----------------------------------------------------+------------------------------------------------------+
+
+
