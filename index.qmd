@@ -2,6 +2,7 @@
 title: "Department of Mathematics and Statistics Internship Schedule for PSHS Grade 11 Students"
 format:
   html:
+    embed-resources: true
     toc: false
 ---
 
